@@ -3,7 +3,7 @@ A sample dataset for real-time MOBA game prediction.
 ## Introduction
 Honor of Kings is one of the world's most popular and highest-grossing MOBA game, attracting more than 80 million daily active players and 200 million monthly active players. This sample dataset contains 100 games, which are randomly chosen from the 184,162 games in the full dataset to be released in the camera-ready version. This dataset is used for real-time win prediction for HoK/MOBA esports.
 ## Data Description
-Download the sample dataset from: (the download link).
+View the sample dataset from: https://github.com/yangzelong14/Real-Time-HoK-Dataset/raw/master/hok_sample_100.json.
 ## Highlights
 ## Simple Cases
 ## Final Words
